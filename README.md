@@ -1,5 +1,5 @@
 # Linear Regression Assignment
-> Outline a brief description of your project.
+> This repository contains Linear Regression Assignment and subjective questions& answers.
 
 
 ## Table of Contents
